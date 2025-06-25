@@ -19,7 +19,7 @@ DocSense is a Retrieval-Augmented Generation (RAG) chatbot that allows you to up
 1. **Clone the repository**
 
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/gamer00001/doc_sense.git
    cd doc_sense
    ```
 
@@ -34,8 +34,7 @@ DocSense is a Retrieval-Augmented Generation (RAG) chatbot that allows you to up
    Create a `.env` file in the project root (see the provided example):
 
    ```
-   OPENAI_API_KEY=your-openai-api-key
-   MODEL_NAME=models/Gemini 2.5 Pro
+   MODEL_NAME=
    GEMINI_API_KEY=your-gemini-api-key
    ```
 
