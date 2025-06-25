@@ -1,0 +1,10 @@
+langchain-community
+langchain
+openai
+faiss-cpu
+tiktoken
+unstructured
+streamlit
+pymupdf
+google-generativeai
+langchain-google-genai

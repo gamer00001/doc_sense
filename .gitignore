@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mac & Linux OS junk files
+.DS_Store
+*.swp
+*.swo
+
+# IDEs
+.vscode/
+.idea/
+
+# FAISS index directory (optional)
+faiss_index/
+*.faiss
+*.index
+
+# Uploaded PDF files
+data/uploaded.pdf
+
+# Logs and caches
+*.log
+*.cache/
+.cache/
+__pycache__/
+
+# Streamlit specific
+.streamlit/secrets.toml
